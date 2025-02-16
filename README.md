@@ -1,2 +1,2 @@
 # Advanced-RVC-Pinokio
-An Applio installer for Pinokio!
+An Advanced-RVC installer for Pinokio!
