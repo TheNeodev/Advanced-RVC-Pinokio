@@ -11,6 +11,7 @@ module.exports = {
         },
         path: "Advanced-RVC",
         message: [
+          "pip install -r requirements.txt",
           "python app.py",
         ],
         on: [{
